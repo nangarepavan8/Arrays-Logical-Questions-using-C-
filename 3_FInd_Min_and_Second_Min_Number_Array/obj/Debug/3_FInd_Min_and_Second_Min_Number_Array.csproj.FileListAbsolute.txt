@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\bin\Debug\3_FInd_Min_and_Second_Min_Number_Array.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\bin\Debug\3_FInd_Min_and_Second_Min_Number_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\bin\Debug\3_FInd_Min_and_Second_Min_Number_Array.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\obj\Debug\3_FInd_Min_and_Second_Min_Number_Array.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\obj\Debug\3_FInd_Min_and_Second_Min_Number_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\obj\Debug\3_FInd_Min_and_Second_Min_Number_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\obj\Debug\3_FInd_Min_and_Second_Min_Number_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\3_FInd_Min_and_Second_Min_Number_Array\3_FInd_Min_and_Second_Min_Number_Array\obj\Debug\3_FInd_Min_and_Second_Min_Number_Array.pdb

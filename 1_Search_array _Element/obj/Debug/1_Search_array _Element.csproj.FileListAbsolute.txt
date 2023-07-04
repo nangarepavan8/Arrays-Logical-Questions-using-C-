@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\bin\Debug\1_Search_array _Element.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\bin\Debug\1_Search_array _Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\bin\Debug\1_Search_array _Element.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\obj\Debug\1_Search_array _Element.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\obj\Debug\1_Search_array _Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\obj\Debug\1_Search_array _Element.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\obj\Debug\1_Search_array _Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\1_Search_array _Element\1_Search_array _Element\obj\Debug\1_Search_array _Element.pdb

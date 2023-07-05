@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Find_Largest_Smallest_Element", "4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element.csproj", "{1D3E4DEA-8583-4430-970F-3330A4815529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3E4DEA-8583-4430-970F-3330A4815529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3E4DEA-8583-4430-970F-3330A4815529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3E4DEA-8583-4430-970F-3330A4815529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3E4DEA-8583-4430-970F-3330A4815529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9628430-8199-4890-A357-4E3762C58410}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\bin\Debug\4_Find_Largest_Smallest_Element.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\bin\Debug\4_Find_Largest_Smallest_Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\bin\Debug\4_Find_Largest_Smallest_Element.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\obj\Debug\4_Find_Largest_Smallest_Element.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\obj\Debug\4_Find_Largest_Smallest_Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\obj\Debug\4_Find_Largest_Smallest_Element.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\obj\Debug\4_Find_Largest_Smallest_Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\4_Find_Largest_Smallest_Element\4_Find_Largest_Smallest_Element\obj\Debug\4_Find_Largest_Smallest_Element.pdb

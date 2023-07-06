@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\bin\Debug\5_Count Frequency of arrays elements.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\bin\Debug\5_Count Frequency of arrays elements.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\bin\Debug\5_Count Frequency of arrays elements.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\obj\Debug\5_Count Frequency of arrays elements.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\obj\Debug\5_Count Frequency of arrays elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\obj\Debug\5_Count Frequency of arrays elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\obj\Debug\5_Count Frequency of arrays elements.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\5_Count Frequency of arrays elements\5_Count Frequency of arrays elements\obj\Debug\5_Count Frequency of arrays elements.pdb

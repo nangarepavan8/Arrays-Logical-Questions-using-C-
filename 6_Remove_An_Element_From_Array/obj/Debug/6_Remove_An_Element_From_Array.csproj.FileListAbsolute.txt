@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\bin\Debug\6_Remove_An_Element_From_Array.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\bin\Debug\6_Remove_An_Element_From_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\bin\Debug\6_Remove_An_Element_From_Array.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\obj\Debug\6_Remove_An_Element_From_Array.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\obj\Debug\6_Remove_An_Element_From_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\obj\Debug\6_Remove_An_Element_From_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\obj\Debug\6_Remove_An_Element_From_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\6_Remove_An_Element_From_Array\6_Remove_An_Element_From_Array\obj\Debug\6_Remove_An_Element_From_Array.pdb

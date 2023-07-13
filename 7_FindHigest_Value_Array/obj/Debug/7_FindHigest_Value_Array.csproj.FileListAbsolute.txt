@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\obj\Debug\7_FindHigest_Value_Array.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\obj\Debug\7_FindHigest_Value_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\obj\Debug\7_FindHigest_Value_Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\bin\Debug\7_FindHigest_Value_Array.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\bin\Debug\7_FindHigest_Value_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\bin\Debug\7_FindHigest_Value_Array.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\obj\Debug\7_FindHigest_Value_Array.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\7_FindHigest_Value_Array\7_FindHigest_Value_Array\obj\Debug\7_FindHigest_Value_Array.pdb

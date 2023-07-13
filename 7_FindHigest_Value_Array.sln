@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_FindHigest_Value_Array", "7_FindHigest_Value_Array\7_FindHigest_Value_Array.csproj", "{59BC17F3-2206-4627-B7DB-62C861960D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BC17F3-2206-4627-B7DB-62C861960D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BC17F3-2206-4627-B7DB-62C861960D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BC17F3-2206-4627-B7DB-62C861960D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BC17F3-2206-4627-B7DB-62C861960D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEBC4E52-324E-474A-B821-E8A85AC5F247}
+	EndGlobalSection
+EndGlobal

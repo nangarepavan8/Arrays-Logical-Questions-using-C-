@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\bin\Debug\8_Remove_Duplicate_Entires.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\bin\Debug\8_Remove_Duplicate_Entires.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\bin\Debug\8_Remove_Duplicate_Entires.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\obj\Debug\8_Remove_Duplicate_Entires.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\obj\Debug\8_Remove_Duplicate_Entires.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\obj\Debug\8_Remove_Duplicate_Entires.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\obj\Debug\8_Remove_Duplicate_Entires.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\8_Remove_Duplicate_Entires\8_Remove_Duplicate_Entires\obj\Debug\8_Remove_Duplicate_Entires.pdb

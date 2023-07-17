@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\bin\Debug\9_Unique_Duplicate_Element.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\bin\Debug\9_Unique_Duplicate_Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\bin\Debug\9_Unique_Duplicate_Element.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\obj\Debug\9_Unique_Duplicate_Element.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\obj\Debug\9_Unique_Duplicate_Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\obj\Debug\9_Unique_Duplicate_Element.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\obj\Debug\9_Unique_Duplicate_Element.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\9_Unique_Duplicate_Element\9_Unique_Duplicate_Element\obj\Debug\9_Unique_Duplicate_Element.pdb

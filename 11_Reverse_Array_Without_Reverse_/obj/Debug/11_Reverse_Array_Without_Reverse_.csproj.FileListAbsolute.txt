@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\bin\Debug\11_Reverse_Array_Without_Reverse_.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\bin\Debug\11_Reverse_Array_Without_Reverse_.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\bin\Debug\11_Reverse_Array_Without_Reverse_.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\obj\Debug\11_Reverse_Array_Without_Reverse_.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\obj\Debug\11_Reverse_Array_Without_Reverse_.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\obj\Debug\11_Reverse_Array_Without_Reverse_.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\obj\Debug\11_Reverse_Array_Without_Reverse_.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\11_Reverse_Array_Without_Reverse_\11_Reverse_Array_Without_Reverse_\obj\Debug\11_Reverse_Array_Without_Reverse_.pdb

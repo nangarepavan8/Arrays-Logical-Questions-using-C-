@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\bin\Debug\12_Merge_two_Arrays.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\bin\Debug\12_Merge_two_Arrays.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\bin\Debug\12_Merge_two_Arrays.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\obj\Debug\12_Merge_two_Arrays.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\obj\Debug\12_Merge_two_Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\obj\Debug\12_Merge_two_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\obj\Debug\12_Merge_two_Arrays.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\12_Merge_two_Arrays\12_Merge_two_Arrays\obj\Debug\12_Merge_two_Arrays.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\bin\Debug\13_BubbleSort.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\bin\Debug\13_BubbleSort.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\bin\Debug\13_BubbleSort.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\obj\Debug\13_BubbleSort.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\obj\Debug\13_BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\obj\Debug\13_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\obj\Debug\13_BubbleSort.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\13_BubbleSort\13_BubbleSort\obj\Debug\13_BubbleSort.pdb

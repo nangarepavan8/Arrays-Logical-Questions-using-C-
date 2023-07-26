@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\bin\Debug\14_Sorting_Array_Ascending_order.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\bin\Debug\14_Sorting_Array_Ascending_order.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\bin\Debug\14_Sorting_Array_Ascending_order.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\obj\Debug\14_Sorting_Array_Ascending_order.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\obj\Debug\14_Sorting_Array_Ascending_order.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\obj\Debug\14_Sorting_Array_Ascending_order.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\obj\Debug\14_Sorting_Array_Ascending_order.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\14_Sorting_Array_Ascending_order\14_Sorting_Array_Ascending_order\obj\Debug\14_Sorting_Array_Ascending_order.pdb

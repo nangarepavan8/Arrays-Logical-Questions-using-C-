@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\bin\Debug\15_Selection_Sort.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\bin\Debug\15_Selection_Sort.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\bin\Debug\15_Selection_Sort.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\obj\Debug\15_Selection_Sort.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\obj\Debug\15_Selection_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\obj\Debug\15_Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\obj\Debug\15_Selection_Sort.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\15_Selection_Sort\15_Selection_Sort\obj\Debug\15_Selection_Sort.pdb

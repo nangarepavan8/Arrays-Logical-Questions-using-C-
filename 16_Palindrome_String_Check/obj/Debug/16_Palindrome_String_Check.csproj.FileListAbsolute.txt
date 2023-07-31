@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\bin\Debug\16_Palindrome_String_Check.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\bin\Debug\16_Palindrome_String_Check.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\bin\Debug\16_Palindrome_String_Check.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\obj\Debug\16_Palindrome_String_Check.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\obj\Debug\16_Palindrome_String_Check.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\obj\Debug\16_Palindrome_String_Check.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\obj\Debug\16_Palindrome_String_Check.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\16_Palindrome_String_Check\16_Palindrome_String_Check\obj\Debug\16_Palindrome_String_Check.pdb

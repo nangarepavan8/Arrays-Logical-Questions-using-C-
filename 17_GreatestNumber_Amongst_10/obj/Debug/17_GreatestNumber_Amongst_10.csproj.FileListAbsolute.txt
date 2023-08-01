@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\bin\Debug\17_GreatestNumber_Amongst_10.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\bin\Debug\17_GreatestNumber_Amongst_10.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\bin\Debug\17_GreatestNumber_Amongst_10.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\obj\Debug\17_GreatestNumber_Amongst_10.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\obj\Debug\17_GreatestNumber_Amongst_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\obj\Debug\17_GreatestNumber_Amongst_10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\obj\Debug\17_GreatestNumber_Amongst_10.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\17_GreatestNumber_Amongst_10\17_GreatestNumber_Amongst_10\obj\Debug\17_GreatestNumber_Amongst_10.pdb

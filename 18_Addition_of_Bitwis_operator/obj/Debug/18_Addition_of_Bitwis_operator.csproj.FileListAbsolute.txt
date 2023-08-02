@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\bin\Debug\18_Addition_of_Bitwis_operator.exe.config
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\bin\Debug\18_Addition_of_Bitwis_operator.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\bin\Debug\18_Addition_of_Bitwis_operator.pdb
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\obj\Debug\18_Addition_of_Bitwis_operator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\obj\Debug\18_Addition_of_Bitwis_operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\obj\Debug\18_Addition_of_Bitwis_operator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\obj\Debug\18_Addition_of_Bitwis_operator.exe
+C:\Users\HP\Desktop\C# and Core\Logical Coding C#\Arrays\18_Addition_of_Bitwis_operator\18_Addition_of_Bitwis_operator\obj\Debug\18_Addition_of_Bitwis_operator.pdb
